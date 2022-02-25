@@ -1,3 +1,5 @@
+# !IMPORTANT NOTE: Travis CI failed - Test-fix did not work (try checking error log) 
+
 # Vue Crash Course (Task Tracker)
 
 > This is the project from the YouTube crash course
