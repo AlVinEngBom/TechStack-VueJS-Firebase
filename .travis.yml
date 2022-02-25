@@ -5,6 +5,9 @@ branches:
   only:
     - master
 
+before_install: 
+  - cd vue-crash-2021
+
 before_script:
   - npm install -g @vue/cli
 
